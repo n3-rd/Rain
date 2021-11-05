@@ -1,0 +1,20 @@
+// app global css in SCSS form
+*{
+  user-select: none;
+}
+body.body--dark {
+  background: #0f143a;
+}
+.tabs {
+  background-color: #171d4a;
+  border-radius: 17px 17px 0 0;
+}
+.app-text-brand {
+  color: #554a96;
+}
+.app-bg-brand {
+  color: #554a96;
+}
+.primary{
+  background-color: #5F54C9;
+}
