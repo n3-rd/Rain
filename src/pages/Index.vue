@@ -13,9 +13,9 @@
         </div>
       </div>
 
-      <div class="share-button q-pa-md q-ml-md cursor-pointer">
+      <!-- <div class="share-button q-pa-md q-ml-md cursor-pointer">
         <q-icon name="share" />
-      </div>
+      </div> -->
     </div>
 
     <Sounds />
