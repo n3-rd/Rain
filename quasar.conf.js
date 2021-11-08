@@ -142,13 +142,13 @@ module.exports = configure(function (ctx) {
       },
 
       manifest: {
-        name: `Quasar App`,
-        short_name: `Quasar App`,
-        description: `A Quasar Framework app`,
+        name: `Rainr`,
+        short_name: `Rainr`,
+        description: `An app for listening to rain sonds`,
         display: "standalone",
         orientation: "portrait",
-        background_color: "#ffffff",
-        theme_color: "#027be3",
+        background_color: "#0f143a",
+        theme_color: "#554a96",
         icons: [
           {
             src: "icons/icon-128x128.png",
@@ -207,7 +207,7 @@ module.exports = configure(function (ctx) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: "newapp",
+        appId: "Rainr",
       },
 
       // "chain" is a webpack-chain object https://github.com/neutrinojs/webpack-chain
