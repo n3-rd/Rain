@@ -144,7 +144,7 @@ module.exports = configure(function (ctx) {
       manifest: {
         name: `Rainr`,
         short_name: `Rainr`,
-        description: `An app for listening to rain sonds`,
+        description: `An app for listening to rain sounds`,
         display: "standalone",
         orientation: "portrait",
         background_color: "#0f143a",
